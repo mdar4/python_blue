@@ -2,11 +2,11 @@
 
 Exercícios de Python do módulo de Lógica de Programação da Blue EdTech 
 
-## Aula 1 - Váriáveis e Operadores Aritméticos
-Variáveis são pequenos espaços de memória, utilizados paraarmazenar e manipular dados. Em Python, os tipos de dados básicos são: tipo inteiro (armazena números inteiros), tipo float(armazena números em formato decimal), e tipo string (armazena um conjunto de caracteres). Cada variável pode armazenar apenas um tipo de dado a cada instante. Em Python, diferentemente de outras linguagens de programação, não é preciso declarar de que tipo será cada variável no início do programa.
+## Váriáveis e Operadores 
+Variáveis são pequenos espaços de memória, utilizados para armazenar e manipular dados. Em Python, os tipos de dados básicos são: tipo inteiro (armazena números inteiros), tipo float(armazena números em formato decimal), e tipo string (armazena um conjunto de caracteres). Cada variável pode armazenar apenas um tipo de dado a cada instante. Em Python, diferentemente de outras linguagens de programação, não é preciso declarar de que tipo será cada variável no início do programa.
 
 ### Características do Python 
-- Sintaxe elegante, simple e clara.
+- Sintaxe elegante, simples e clara.
 - Tipagem dinâmica.
 - Tipagem forte.
 - Blocos de códigos são delimitados por indentação
