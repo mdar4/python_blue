@@ -11,7 +11,6 @@
 n = 0
 soma = 0
 mult = 0
-maior = 0
 n1 = 0
 n2 = 0 
 
