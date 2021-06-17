@@ -7,6 +7,5 @@
 # e) lista em ordem crescente.
 # f) lista em ordem decrescente.
 
-soma = 0
 lista = [5, 7, 2, 9, 4, 1, 3]
 print(f'O tamanho da lista é {len(lista)}\nO maior valor é {max(lista)}\nO menor valor é {min(lista)}\nA soma dos elementos é {sum(lista)}\nEm ordem crescente é {sorted(lista)}\nEm ordem decrescente é {sorted(lista, reverse= True)}')
