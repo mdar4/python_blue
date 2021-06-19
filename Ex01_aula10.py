@@ -8,7 +8,7 @@ pessoa = list()
 maior = menor = 0
 for c in range(5):
     pessoa.append(str(input('Nome: ')))
-    pessoa.append(str(input('Idade: ')))
+    pessoa.append(int(input('Idade: ')))
     povoado.append(pessoa[:])
     pessoa.clear()
 for i in povoado:
